@@ -1,0 +1,18 @@
+body {
+
+    background-color: rgba(207, 230, 231, 0.418); 
+  
+  }
+  .jumbotron {
+      background-image: url("../images/jumbotron-crystals.jpg");
+      background-size: cover;
+      align-content: center;
+    }
+    
+    .jumbotron h1 {
+     color: black;
+  
+    
+    }
+  
+    
